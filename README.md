@@ -6,15 +6,6 @@ This project applies dynamic programming to optimize airline overbooking policie
 
 ---
 
-## 👥 Team Members
-
-- Jyoti Kumari  
-- Akash Barathan  
-- Kush Patel  
-- Aryan Pai  
-
----
-
 ## 🧠 Problem Statements and Approaches
 
 ### 🧩 Problem 1: Fixed Overbooking Policy (+5 Seats)
